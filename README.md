@@ -107,7 +107,7 @@ GitHub:
 https://github.com/MD-Raquib-Hussain90
 
 LinkedIn:
-(Add your LinkedIn Profile)
+https://www.linkedin.com/in/md-raquib-hussain 
 
 ---
 
