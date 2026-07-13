@@ -1,8 +1,8 @@
 function createToaster(config) {
-  // ✅ Parent ko ek hi baar select kiya
+  // ✅ select Parent  Element
   const parent = document.querySelector(".parent");
 
-  // ✅ Position classes ek hi baar add hongi
+  // ✅ Add Position Class to Parent Element
   parent.classList.add(
     config.positionX === "right" ? "right-5" : "left-5",
     config.positionY === "bottom" ? "bottom-5" : "top-5"
