@@ -1,7 +1,7 @@
 # 🍞 JavaScript Toast Notification
 
 
-<h3>LIVE DEMO :- </h3>
+<h3>LIVE DEMO :- https://md-raquib-hussain90.github.io/Basic-toaster/ </h3>
 
 A simple and customizable Toast Notification component built using **Vanilla JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**.
 
