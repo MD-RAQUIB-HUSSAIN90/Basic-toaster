@@ -95,7 +95,7 @@ assets/preview.png
 
 ## 🎯 Learning Purpose
 
-This project was built to practice JavaScript concepts like reusable functions, closures, DOM manipulation, and dynamic UI generation.
+
 
 ---
 
