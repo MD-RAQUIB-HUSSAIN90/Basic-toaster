@@ -69,17 +69,7 @@ toaster("Download Done");
 
 ---
 
-## 📸 Preview
 
-Add a screenshot or GIF here.
-
-Example:
-
-```
-assets/preview.png
-```
-
----
 
 ## 📚 Concepts Used
 
