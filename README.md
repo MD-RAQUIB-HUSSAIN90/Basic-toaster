@@ -27,6 +27,7 @@ This project demonstrates how to create reusable toast notifications using **Hig
 - CSS3
 - JavaScript (ES6)
 - Tailwind CSS
+- Dom manipulation 
 
 ---
 
